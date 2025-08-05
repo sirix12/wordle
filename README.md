@@ -1,5 +1,4 @@
 # Wordle game
-#### Video Demo:  <https://www.youtube.com/watch?v=34HNMxECHAY>
 #### Description:
 
 
